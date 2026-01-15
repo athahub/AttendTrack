@@ -4,7 +4,7 @@
 
 **Aplikasi Absensi Berbasis Lokasi (Android)**
 
-GeoAbsensi adalah aplikasi absensi berbasis lokasi yang dikembangkan menggunakan Android dan Jetpack Compose. Aplikasi ini memungkinkan pengguna melakukan absensi hanya apabila berada dalam radius lokasi yang telah ditentukan, sehingga meningkatkan akurasi dan mengurangi kecurangan absensi.
+AttendTrack adalah aplikasi absensi berbasis lokasi yang dikembangkan menggunakan Android dan Jetpack Compose. Aplikasi ini memungkinkan pengguna melakukan absensi hanya apabila berada dalam radius lokasi yang telah ditentukan, sehingga meningkatkan akurasi dan mengurangi kecurangan absensi.
 </div>
 
 ---
@@ -46,3 +46,4 @@ GeoAbsensi adalah aplikasi absensi berbasis lokasi yang dikembangkan menggunakan
 - **Version Control**: Git & GitHub
 
 ---
+
