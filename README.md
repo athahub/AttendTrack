@@ -3,7 +3,7 @@
  # AttendTrack
 
 **Aplikasi Absensi Berbasis Lokasi (Android)**
-
+Tugas Mata Kuliah Pengembangan Aplikasi Mobile | Sistem dan Teknologi Informasi | ITB Nobel Indonesia
 AttendTrack adalah aplikasi absensi berbasis lokasi yang dikembangkan menggunakan Android dan Jetpack Compose. Aplikasi ini memungkinkan pengguna melakukan absensi hanya apabila berada dalam radius lokasi yang telah ditentukan, sehingga meningkatkan akurasi dan mengurangi kecurangan absensi.
 </div>
 
@@ -46,4 +46,5 @@ AttendTrack adalah aplikasi absensi berbasis lokasi yang dikembangkan menggunaka
 - **Version Control**: Git & GitHub
 
 ---
+
 
